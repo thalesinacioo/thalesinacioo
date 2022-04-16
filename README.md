@@ -1,4 +1,7 @@
-### Hello 👍🏻
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>  
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesinacioo&show_icons=true&theme=flag-india)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thalesinacioo&theme=flag-india)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesinacioo&langs_count=5&theme=flag-india&layout=compact)
