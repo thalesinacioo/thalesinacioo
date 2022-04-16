@@ -1,5 +1,5 @@
 ### Hello world 🌎
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesinacioo&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesinacioo&show_icons=true&theme=merko)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thalesinacioo)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesinacioo&langs_count=5&theme=default)
