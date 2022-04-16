@@ -3,7 +3,6 @@
 </div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesinacioo&show_icons=true&theme=flag-india)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesinacioo&langs_count=5&theme=flag-india&layout=compact)
 <br>
