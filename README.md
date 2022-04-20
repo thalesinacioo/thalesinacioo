@@ -2,7 +2,7 @@
   <tr>
     <th>
       <div id="header" align="right">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320"/>  
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="270"/>  
 </div>
   </th>
   <th>
