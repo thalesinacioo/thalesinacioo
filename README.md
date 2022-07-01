@@ -7,8 +7,8 @@
   </th>
   <th>
     <div id="head" align="left">
-🔭 I’m currently working on a lot of projects and high school<br>
-🌱 I’m currently learning c++ and js <br>
+🔭 I’m currently working on a lot of projects <br>
+🌱 I’m currently learning c++, C#, html, CSS and js <br>
 🤔 I’m looking for help with studies<br>
 💬 Ask me about something<br>
 📫 How to reach me: thalesinacioo@gmail.com<br>
