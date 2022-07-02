@@ -4,4 +4,4 @@
 #### Top Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thalesinacioo&repo=how2&theme=buefy)](https://github.com/thalesinacioo/HOW2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thalesinacioo&repo=appmockup1&theme=buefy)](https://github.com/thalesinacioo/appmockup1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thalesinacioo&repo=Mockup-app-figma&theme=buefy)](https://github.com/thalesinacioo/Mockup-app-figma)
